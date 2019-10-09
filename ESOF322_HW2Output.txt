@@ -1,0 +1,9 @@
+Please enter the type of database you want to use (Relational, NoSQL, or Graph): 
+Relational
+You have picked the Relational database software.
+The default store algorithm for the Relational database system is the table store.
+Do you wish to change the algorithm? Y/N 
+Y
+Do you want to use the table store, document store, or node store?
+node store
+You are using a Node store.
